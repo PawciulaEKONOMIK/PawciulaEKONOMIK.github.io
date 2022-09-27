@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="UTF-8">
+        <title>Dziwny świat kota Filemona</title>
+    </head>
+    <body>
+        <h1>Dziwny świat kota Filemona</h1>
+        <p><b>Dziwny świat Kota Filemona</b> to telewizyjny serial animowany dla dzieci, emitowany w latach
+            1972–1974. Wyprodukowany został w Studiu Małych Form Filmowych Se-Ma-For. Autorami
+            scenariusza byli Marek Nejman oraz Irena Sobańska. Serial opowiada o przygodach młodego
+            kotka Filemona i starego, doświadczonego kota Bonifacego. Obaj mieszkają w chatce w
+            wiosce wraz z babcią i dziadkiem. Serial liczył 13 odcinków trwających około 9 minut każdy.</p>
+        <p>Kontynuacją był serial <b>Przygody kota Filemona</b> emitowany w latach 1977–1981. Serial
+            opowiada o dalszych losach młodego kotka Filemona i dorosłego kota Bonifacego. Serial
+            liczył 26 odcinków trwających około 9 minut każdy.</p>
+        <img src="images/filemon.jpg" alt="Filemon" title="Filemon">
+        <p><i>Kot Filemon</i></p>
+        <img src="images/bonifacy.jpg" alt="Bonifacy" title="Bonifacy">
+        <p><i>Kot Bonifacy</i></p><hr>
+        <p3><b>Autor strony: <i>Paweł Pękala</i></b></p3>
+    </body>
+    </html>
